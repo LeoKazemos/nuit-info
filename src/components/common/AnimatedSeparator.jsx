@@ -1,6 +1,6 @@
 import React from 'react';
 import wave from '../../assets/svg/vague_separatrice.svg';
-import './animatedSeparator.scss';
+import 'animatedSeparator.scss';
 
 function AnimatedSeparator() {
   return (
